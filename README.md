@@ -1,6 +1,6 @@
 ### Olá seja bem vindo(a) a minha página no git-hub, meu nome é Gabriel Peixoto.
 
-- 🔭 Atualmente trabalho como estatístico no PROCON-CG.
+
 - 🌱 Estou cursando estatística na Universidade Estadual da Paraíba (UEPB) e estudo Ciência de dados, inteligência artificial e machine learning.
 - 🎙️Desenvolvo um podcast chamado Estaticast, focado em Estatistica, Data Science e inteligência artificial
 - 📊 Sou Co-organizador do Progama de extensão "Análise e custo dos principais itens de consumo no município de Campina Grande-PB: Uma estratégia para educação financeira com uso de aplicativo móvel"
